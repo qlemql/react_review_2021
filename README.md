@@ -5,11 +5,11 @@ React JS
 1. npm start로 서버 실행
 
 2. githup 업로드
-   2-1 git init
-   2-2 git remote add origin
-   2-3 git add .
-   2-4 git commit - m "테스트"
-   2-5 git push origin master
+   - git init
+   - git remote add origin
+   - git add .
+   - git commit - m "테스트"
+   - git push origin master
 
 3. 불 필요한 파일 삭제
 
@@ -18,3 +18,10 @@ React JS
 5. 함수명은 대문자로 시작
 
 6. export default 함수명; 으로 마무리
+
+7. react apllication이 하나의 컴포넌트만을 렌더링하기에 여러 종류의 컴포넌트를 나열해서 사용할 수 없다.
+
+8. 대신 기본 App컴포넌트안에 여러 종류의 컴포넌트를 넣는것은 가능하다.
+   <함수명 />
+
+9.
